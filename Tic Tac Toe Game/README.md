@@ -1,1 +1,1 @@
-This is a simple tic toc toe game I created as an assignment for my online course.
+This is a simple tic tac toe game I created as an assignment for my online course.
